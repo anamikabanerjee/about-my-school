@@ -1,0 +1,9 @@
+body
+    {
+        font-family: 'Raleway', sans-serif;
+        text-align: center;
+        justify-content:space-around;
+        height: 100%;
+        align-items:center;
+        background: linear-gradient(#E0B4F1, white, #E5C6F1);           
+    }
